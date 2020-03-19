@@ -1,0 +1,381 @@
+﻿TimeCasa;GolCasa;GolVisitante;TimeVisitante
+flamengo;1;1;atleticoMg
+corinthians;1;1;chapecoense
+fluminense;3;2;santos
+palmeiras;4;0;vaco
+cruzeiro;1;0;sao paulo
+bahia;6;2;athleticoPr
+ponte preta;4;0;sport
+avai;0;0;vitoria
+gremio;2;0;botafogo
+coritiba;4;1;atleticoGo
+santos;1;0;coritiba
+chapecoense;1;0;palmeiras
+atleticoGo;0;3;flamengo
+vaco;2;1;bahia
+atleticoMg;1;2;fluminense
+athleticoPr;0;2;gremio
+vitoria;0;1;corinthians
+botafogo;2;0;ponte preta
+sport;1;1;cruzeiro
+sao paulo;2;0;avai
+vaco;3;2;fluminense
+sao paulo;2;0;palmeiras
+vitoria;0;1;coritiba
+atleticoMg;2;2;ponte preta
+athleticoPr;1;1;flamengo
+santos;0;1;cruzeiro
+atleticoGo;0;1;corinthians
+sport;4;3;gremio
+botafogo;1;0;bahia
+chapecoense;2;0;avai
+coritiba;1;0;athleticoPr
+fluminense;2;1;vitoria
+corinthians;2;0;santos
+flamengo;0;0;botafogo
+avai;1;0;sport
+ponte preta;1;0;sao paulo
+palmeiras;0;0;atleticoMg
+gremio;2;0;vaco
+cruzeiro;0;2;chapecoense
+bahia;3;0;atleticoGo
+fluminense;1;1;athleticoPr
+atleticoMg;1;0;avai
+coritiba;1;0;palmeiras
+santos;1;0;botafogo
+vaco;2;5;corinthians
+sport;2;0;flamengo
+atleticoGo;3;0;ponte preta
+sao paulo;2;0;vitoria
+chapecoense;3;6;gremio
+bahia;1;0;cruzeiro
+palmeiras;3;1;fluminense
+vaco;2;1;sport
+botafogo;2;2;coritiba
+corinthians;3;2;sao paulo
+vitoria;2;0;atleticoMg
+ponte preta;3;2;chapecoense
+avai;1;1;flamengo
+cruzeiro;2;0;atleticoGo
+athleticoPr;0;2;santos
+gremio;1;0;bahia
+atleticoMg;0;1;athleticoPr
+sport;0;0;sao paulo
+vitoria;2;2;botafogo
+atleticoGo;3;1;avai
+flamengo;2;0;ponte preta
+santos;1;0;palmeiras
+corinthians;1;0;cruzeiro
+chapecoense;2;1;vaco
+coritiba;0;0;bahia
+fluminense;0;2;gremio
+atleticoGo;0;1;athleticoPr
+vaco;1;0;avai
+santos;0;0;ponte preta
+coritiba;0;0;corinthians
+bahia;2;4;palmeiras
+chapecoense;0;2;botafogo
+sao paulo;1;2;atleticoMg
+fluminense;2;2;flamengo
+sport;1;3;vitoria
+cruzeiro;3;3;gremio
+vitoria;0;2;santos
+palmeiras;1;0;atleticoGo
+botafogo;3;1;vaco
+atleticoMg;2;2;sport
+athleticoPr;1;0;sao paulo
+avai;0;3;fluminense
+ponte preta;1;0;cruzeiro
+corinthians;3;0;bahia
+gremio;2;0;coritiba
+flamengo;5;1;chapecoense
+santos;0;1;sport
+vaco;1;0;atleticoGo
+ponte preta;1;2;palmeiras
+sao paulo;1;1;fluminense
+cruzeiro;2;0;coritiba
+athleticoPr;4;1;vitoria
+gremio;0;1;corinthians
+bahia;0;1;flamengo
+chapecoense;0;1;atleticoMg
+botafogo;0;2;avai
+palmeiras;1;0;gremio
+atleticoGo;1;1;santos
+sport;1;0;athleticoPr
+vitoria;0;0;bahia
+corinthians;1;0;botafogo
+atleticoMg;3;1;cruzeiro
+flamengo;2;0;sao paulo
+coritiba;2;2;vaco
+avai;0;0;ponte preta
+fluminense;3;3;chapecoense
+atleticoGo;1;2;vitoria
+vaco;0;1;flamengo
+corinthians;2;0;ponte preta
+chapecoense;1;1;athleticoPr
+cruzeiro;3;1;palmeiras
+gremio;0;2;avai
+bahia;1;1;fluminense
+santos;3;2;sao paulo
+botafogo;1;1;atleticoMg
+coritiba;0;3;sport
+atleticoMg;0;1;santos
+ponte preta;0;3;bahia
+fluminense;0;1;botafogo
+athleticoPr;0;2;cruzeiro
+palmeiras;0;2;corinthians
+vitoria;1;4;vaco
+sao paulo;2;2;atleticoGo
+sport;3;0;chapecoense
+flamengo;0;1;gremio
+avai;1;4;coritiba
+corinthians;2;2;athleticoPr
+palmeiras;4;2;vitoria
+gremio;3;1;ponte preta
+cruzeiro;1;1;flamengo
+vaco;0;0;santos
+atleticoGo;1;2;atleticoMg
+chapecoense;2;0;sao paulo
+coritiba;1;2;fluminense
+bahia;1;1;avai
+botafogo;2;1;sport
+santos;1;0;chapecoense
+vitoria;1;3;gremio
+ponte preta;4;0;coritiba
+avai;0;0;corinthians
+sao paulo;1;0;vaco
+atleticoMg;0;2;bahia
+flamengo;2;2;palmeiras
+fluminense;1;1;cruzeiro
+sport;4;0;atleticoGo
+athleticoPr;0;0;botafogo
+vitoria;1;2;chapecoense
+flamengo;2;1;coritiba
+santos;3;0;bahia
+fluminense;0;1;corinthians
+avai;1;0;cruzeiro
+sport;0;2;palmeiras
+atleticoGo;1;1;botafogo
+atleticoMg;1;2;vaco
+athleticoPr;0;2;ponte preta
+sao paulo;1;1;gremio
+botafogo;3;4;sao paulo
+palmeiras;2;0;avai
+chapecoense;1;2;atleticoGo
+bahia;1;3;sport
+corinthians;1;1;flamengo
+coritiba;0;2;atleticoMg
+gremio;1;1;santos
+cruzeiro;0;0;vitoria
+vaco;0;1;athleticoPr
+ponte preta;0;0;fluminense
+sport;2;2;fluminense
+chapecoense;1;1;bahia
+vitoria;3;1;ponte preta
+atleticoMg;0;2;corinthians
+santos;3;2;flamengo
+botafogo;1;2;palmeiras
+atleticoGo;0;1;gremio
+sao paulo;1;2;coritiba
+athleticoPr;5;0;avai
+vaco;0;3;cruzeiro
+corinthians;3;1;sport
+fluminense;3;1;atleticoGo
+flamengo;0;2;vitoria
+palmeiras;0;1;athleticoPr
+cruzeiro;0;0;botafogo
+coritiba;2;0;chapecoense
+gremio;2;0;atleticoMg
+bahia;2;1;sao paulo
+ponte preta;0;0;vaco
+avai;0;0;santos
+atleticoGo;1;0;coritiba
+vitoria;0;1;avai
+sao paulo;3;2;cruzeiro
+atleticoMg;2;0;flamengo
+sport;0;0;ponte preta
+vaco;1;1;palmeiras
+athleticoPr;4;1;bahia
+botafogo;1;0;gremio
+santos;0;0;fluminense
+chapecoense;0;1;corinthians
+corinthians;0;1;vitoria
+flamengo;2;0;atleticoGo
+gremio;0;0;athleticoPr
+bahia;3;0;vaco
+ponte preta;2;1;botafogo
+avai;1;1;sao paulo
+cruzeiro;2;0;sport
+coritiba;0;0;santos
+palmeiras;0;2;chapecoense
+fluminense;2;1;atleticoMg
+fluminense;0;1;vaco
+corinthians;0;1;atleticoGo
+bahia;1;2;botafogo
+ponte preta;1;2;atleticoMg
+flamengo;2;0;athleticoPr
+palmeiras;4;2;sao paulo
+avai;1;0;chapecoense
+cruzeiro;1;1;santos
+coritiba;0;1;vitoria
+gremio;5;0;sport
+atleticoMg;1;1;palmeiras
+vaco;1;0;gremio
+sao paulo;2;2;ponte preta
+athleticoPr;1;1;coritiba
+sport;0;1;avai
+vitoria;2;2;fluminense
+santos;2;0;corinthians
+chapecoense;1;2;cruzeiro
+botafogo;2;0;flamengo
+atleticoGo;1;1;bahia
+botafogo;2;0;santos
+ponte preta;1;3;atleticoGo
+avai;1;1;atleticoMg
+athleticoPr;3;1;fluminense
+gremio;0;1;chapecoense
+vitoria;1;2;sao paulo
+flamengo;2;0;sport
+corinthians;1;0;vaco
+cruzeiro;1;0;bahia
+palmeiras;1;0;coritiba
+flamengo;1;1;avai
+santos;1;0;athleticoPr
+sao paulo;1;1;corinthians
+coritiba;2;3;botafogo
+atleticoGo;1;2;cruzeiro
+chapecoense;1;0;ponte preta
+fluminense;0;1;palmeiras
+bahia;1;0;gremio
+atleticoMg;1;3;vitoria
+sport;1;1;vaco
+bahia;1;1;coritiba
+vaco;1;1;chapecoense
+palmeiras;0;1;santos
+sao paulo;1;0;sport
+cruzeiro;1;1;corinthians
+botafogo;2;3;vitoria
+avai;0;2;atleticoGo
+gremio;1;0;fluminense
+athleticoPr;0;2;atleticoMg
+ponte preta;1;0;flamengo
+botafogo;2;1;chapecoense
+athleticoPr;2;2;atleticoGo
+corinthians;3;1;coritiba
+atleticoMg;1;0;sao paulo
+avai;1;2;vaco
+gremio;0;1;cruzeiro
+vitoria;1;2;sport
+ponte preta;1;1;santos
+flamengo;1;1;fluminense
+palmeiras;2;2;bahia
+cruzeiro;2;1;ponte preta
+vaco;1;0;botafogo
+sao paulo;2;1;athleticoPr
+fluminense;1;0;avai
+sport;1;1;atleticoMg
+atleticoGo;1;3;palmeiras
+chapecoense;0;1;flamengo
+bahia;2;0;corinthians
+coritiba;0;1;gremio
+santos;2;2;vitoria
+coritiba;1;0;cruzeiro
+atleticoGo;0;1;vaco
+atleticoMg;2;3;chapecoense
+corinthians;0;0;gremio
+avai;1;1;botafogo
+fluminense;3;1;sao paulo
+palmeiras;2;0;ponte preta
+vitoria;2;3;athleticoPr
+sport;1;1;santos
+flamengo;4;1;bahia
+vaco;1;1;coritiba
+santos;1;0;atleticoGo
+sao paulo;2;0;flamengo
+cruzeiro;1;3;atleticoMg
+athleticoPr;2;1;sport
+gremio;1;3;palmeiras
+bahia;2;1;vitoria
+ponte preta;1;2;avai
+chapecoense;2;0;fluminense
+botafogo;2;1;corinthians
+sao paulo;2;1;santos
+flamengo;0;0;vaco
+athleticoPr;0;0;chapecoense
+atleticoMg;0;0;botafogo
+ponte preta;1;0;corinthians
+fluminense;1;1;bahia
+sport;3;4;coritiba
+vitoria;1;1;atleticoGo
+avai;2;2;gremio
+palmeiras;2;2;cruzeiro
+santos;3;1;atleticoMg
+atleticoGo;0;1;sao paulo
+botafogo;1;2;fluminense
+coritiba;4;0;avai
+gremio;3;1;flamengo
+cruzeiro;1;0;athleticoPr
+corinthians;3;2;palmeiras
+bahia;2;0;ponte preta
+chapecoense;1;1;sport
+vaco;1;1;vitoria
+ponte preta;0;1;gremio
+avai;1;2;bahia
+athleticoPr;0;1;corinthians
+sport;1;2;botafogo
+vitoria;3;1;palmeiras
+flamengo;2;0;cruzeiro
+santos;1;2;vaco
+sao paulo;2;2;chapecoense
+atleticoMg;3;2;atleticoGo
+fluminense;2;2;coritiba
+botafogo;0;1;athleticoPr
+corinthians;1;0;avai
+gremio;1;1;vitoria
+atleticoGo;2;0;sport
+vaco;1;1;sao paulo
+palmeiras;2;0;flamengo
+bahia;2;2;atleticoMg
+cruzeiro;3;1;fluminense
+coritiba;1;1;ponte preta
+chapecoense;2;0;santos
+ponte preta;2;1;athleticoPr
+cruzeiro;2;2;avai
+gremio;1;0;sao paulo
+corinthians;3;1;fluminense
+vaco;1;1;atleticoMg
+palmeiras;5;1;sport
+botafogo;1;2;atleticoGo
+chapecoense;2;1;vitoria
+bahia;3;1;santos
+coritiba;1;0;flamengo
+flamengo;3;0;corinthians
+sport;1;0;bahia
+vitoria;1;1;cruzeiro
+atleticoGo;1;1;chapecoense
+sao paulo;0;0;botafogo
+atleticoMg;3;0;coritiba
+athleticoPr;3;1;vaco
+santos;1;0;gremio
+fluminense;2;0;ponte preta
+avai;2;1;palmeiras
+fluminense;1;2;sport
+ponte preta;2;3;vitoria
+avai;1;0;athleticoPr
+corinthians;2;2;atleticoMg
+cruzeiro;0;1;vaco
+coritiba;1;2;sao paulo
+gremio;1;1;atleticoGo
+bahia;0;1;chapecoense
+flamengo;1;2;santos
+palmeiras;2;0;botafogo
+athleticoPr;3;0;palmeiras
+botafogo;2;2;cruzeiro
+vaco;2;1;ponte preta
+santos;1;1;avai
+sao paulo;1;1;bahia
+atleticoMg;4;3;gremio
+sport;1;0;corinthians
+vitoria;1;2;flamengo
+atleticoGo;1;1;fluminense
+chapecoense;2;1;coritiba
